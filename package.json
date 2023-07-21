@@ -1,0 +1,22 @@
+{
+	"name": "ant-design-issue-reproduction",
+	"version": "1.0.0",
+	"scripts": {
+		"test": ""
+	},
+	"keywords": [
+		"antd",
+		"minimal-reproduction"
+	],
+	"author": "true_mogician",
+	"license": "ISC",
+	"dependencies": {
+		"antd": "^5.7.2",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"@types/react": "^18.2.15",
+		"@types/react-dom": "^18.2.7"
+	}
+}
